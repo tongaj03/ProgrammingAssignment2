@@ -1,5 +1,5 @@
-## The functions below create special matrix objects that allow the inverse to be 
-## cached and used the cached inverse (if created) to 
+## The functions below create matrix objects and allow for their inverse to 
+## be cached and returned.
 
 ## This function creates a special "matrix" object that can cache its inverse
 
